@@ -1,6 +1,8 @@
-# 🛡️ Fraud Detection System
+# 🛡️ Fraud Detection System 
 
 A real-time machine learning-powered fraud detection system built with Streamlit for analyzing financial transactions and identifying potential fraudulent activities.
+
+### Try it: https://fraud-detection-predictor.streamlit.app/
 
 ## 📋 Table of Contents
 - [Overview](#overview)
@@ -228,6 +230,6 @@ Receiver New: $0.00
 
 ---
 
-**🔗 Live Demo**: [Your deployed application URL]
+**🔗 Live Demo**: https://fraud-detection-predictor.streamlit.app/
 
 **📊 Performance**: 98.5% accuracy on 6.3M transaction dataset
