@@ -9,15 +9,15 @@ https://github.com/user-attachments/assets/b65fdaed-c326-4bb8-a97b-e89d9cd3d0e0
 ### Try it: https://fraud-detection-predictor.streamlit.app/
 
 ## 📋 Table of Contents
-- [Overview](#overview)
-- [Dataset Information](#dataset-information)
-- [Features](#features)
-- [Technology Stack](#technology-stack)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Model Information](#model-information)
-- [Screenshots](#screenshots)
-- [Future Enhancements](#future-enhancements)
+- Overview
+- Dataset Information
+- Features
+- Technology Stack
+- Installation
+- Usage
+- Model Information
+- Screenshots
+- Future Enhancements
 
 ## 🔍 Overview
 
